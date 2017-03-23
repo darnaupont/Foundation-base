@@ -63,3 +63,13 @@ http://localhost:8000
 ```
 
 To create compressed, production-ready assets, run `npm run build`.
+
+Also you can install
+FULLPAGE.JS
+```
+bower install fullpage.js --save-dev
+```
+Awsome-fonts
+```
+bower install --save fontawesome
+```
