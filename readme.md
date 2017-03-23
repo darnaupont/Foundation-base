@@ -64,7 +64,8 @@ http://localhost:8000
 
 To create compressed, production-ready assets, run `npm run build`.
 
-Also you can install
+Also you can install this extra components pre-installed:
+
 FULLPAGE.JS
 ```
 bower install fullpage.js --save-dev
