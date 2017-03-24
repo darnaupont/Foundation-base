@@ -17,8 +17,8 @@
   "dependencies": {
     "foundation-sites": "~6.3.0",
     "motion-ui": "~1.2.2",
-    "components-font-awesome": "^4.7.0"
-    "fullpage.js": "^2.9.4"
+    "font-awesome": "^4.7.0",
+    "fullpage.js": "^2.9.3"
   },
   "private": true,
   "devDependencies": {
